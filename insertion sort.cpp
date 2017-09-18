@@ -1,4 +1,4 @@
-void insert_sort(int a[], int n)
+void insert_sort(int a[], int n) //直接插入排序
 {
     for(int i = 1; i < n; i++)
     {
