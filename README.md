@@ -1,2 +1,2 @@
 # sorting-algorithms
-sorting algorithms program
+implementations of sorting algorithms
